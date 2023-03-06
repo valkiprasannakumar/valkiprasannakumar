@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @valkiprasannakumar
-- 👀 I’m interested in app develoment
 
 <!---
 9014897763/9014897763 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
