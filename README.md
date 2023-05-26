@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @valkiprasannakumar
+- 👋 Hi, I’m @valkiprasanna kumar
+- Interested in Flutter development
+- Learning flutter and Dart
+- 
 
 <!---
 9014897763/9014897763 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
