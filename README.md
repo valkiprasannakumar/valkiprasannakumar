@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valkiprasanna kumar
 - Interested in Flutter development
-- Learning flutter and Dart
+- Learning flutter,Dart and firebase.
 - 
 
 <!---
