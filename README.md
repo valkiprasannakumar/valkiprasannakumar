@@ -2,8 +2,10 @@
 <h1 align="center">Hi 👋, I'm Valki Prasanna Kumar</h1>
 <h3 align="center">A Passionate Flutter Developer from India.</h3>
 
-- 💬 Ask me about **Dart and Flutter.**
 
+- 🔭 I’m currently working as **Flutter Developer**
+- 🌱 I’m currently learning **Flutter, Dart and Firebase.**
+- 💬 Ask me about **Dart and Flutter.**
 - 📫 How to reach me **valkiprassannakumar@gmail.com**
 
 
